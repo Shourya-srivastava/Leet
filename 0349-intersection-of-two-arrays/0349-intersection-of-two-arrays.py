@@ -1,0 +1,14 @@
+class Solution:
+    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        res = []
+        for i in range(len(nums1)):
+            for j in range(len(nums2)):
+                if nums1[i] == nums2[j]:
+                    res.append(nums1[i])
+        res.sort()
+        unique = []
+        for i in range(len(res)):
+            if i == 0 or res[i] != res[i-1]:
+                unique.append(res[i])
+                
+        return(unique)
