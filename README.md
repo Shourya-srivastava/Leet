@@ -12,6 +12,7 @@ Solved leetcode problemas
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shourya-srivastava/Leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shourya-srivastava/Leet/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -26,6 +27,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shourya-srivastava/Leet/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
