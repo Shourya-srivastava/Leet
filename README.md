@@ -22,6 +22,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shourya-srivastava/Leet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shourya-srivastava/Leet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shourya-srivastava/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shourya-srivastava/Leet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
@@ -75,4 +76,12 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shourya-srivastava/Leet/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shourya-srivastava/Leet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
