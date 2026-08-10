@@ -1,16 +1,22 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        br = {'(': ')', '[': ']', '{': '}'}
-        stack = []
-        
-        for char in s:
-            if char in br:  # opening bracket
-                stack.append(char)
-            else:  # closing bracket
-                if not stack:  # stack empty → invalid
+
+        t = []   
+        for i in range(len(s)):
+            if s[i] == '(' or s[i] == '{' or s[i] == '[':
+                t.append(s[i])
+            else:
+                if len(t) == 0:  
                     return False
-                top = stack.pop()
-                if br[top] != char:
+                if s[i] == ')' and t[-1] == '(':
+                    t.pop()
+                elif s[i] == ']' and t[-1] == '[':
+                    t.pop()
+                elif s[i] == '}' and t[-1] == '{':
+                    t.pop()
+                else:
                     return False
-        
-        return len(stack) == 0
+        if len(t) == 0:
+            return True
+        else:
+            return False
