@@ -19,6 +19,7 @@ Solved leetcode problemas
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Solved leetcode problemas
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
