@@ -19,6 +19,7 @@ Solved leetcode problemas
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [1929-concatenation-of-array](https://github.com/Shourya-srivastava/Leet/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -84,6 +85,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Shourya-srivastava/Leet/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
