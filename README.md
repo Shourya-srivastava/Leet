@@ -19,6 +19,7 @@ Solved leetcode problemas
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Shourya-srivastava/Leet/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Shourya-srivastava/Leet/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shourya-srivastava/Leet/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
