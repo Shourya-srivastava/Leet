@@ -13,6 +13,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shourya-srivastava/Leet/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Shourya-srivastava/Leet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shourya-srivastava/Leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shourya-srivastava/Leet/tree/master/0035-search-insert-position) |
@@ -41,6 +42,7 @@ Solved leetcode problemas
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shourya-srivastava/Leet/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shourya-srivastava/Leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shourya-srivastava/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -61,6 +63,7 @@ Solved leetcode problemas
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shourya-srivastava/Leet/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
