@@ -20,6 +20,7 @@ Solved leetcode problemas
 | [0066-plus-one](https://github.com/Shourya-srivastava/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Shourya-srivastava/Leet/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Shourya-srivastava/Leet/tree/master/1470-shuffle-the-array) |
@@ -52,6 +53,7 @@ Solved leetcode problemas
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -65,6 +67,7 @@ Solved leetcode problemas
 | ------- |
 | [0015-3sum](https://github.com/Shourya-srivastava/Leet/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
@@ -105,4 +108,16 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
