@@ -20,6 +20,7 @@ Solved leetcode problemas
 | [0035-search-insert-position](https://github.com/Shourya-srivastava/Leet/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shourya-srivastava/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shourya-srivastava/Leet/tree/master/0217-contains-duplicate) |
@@ -126,4 +127,12 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
