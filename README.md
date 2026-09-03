@@ -9,6 +9,7 @@ Solved leetcode problemas
 | [0009-palindrome-number](https://github.com/Shourya-srivastava/Leet/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shourya-srivastava/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Solved leetcode problemas
 | [0088-merge-sorted-array](https://github.com/Shourya-srivastava/Leet/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shourya-srivastava/Leet/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shourya-srivastava/Leet/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +109,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shourya-srivastava/Leet/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
