@@ -26,6 +26,7 @@ Solved leetcode problemas
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shourya-srivastava/Leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Shourya-srivastava/Leet/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Shourya-srivastava/Leet/tree/master/1470-shuffle-the-array) |
@@ -61,6 +62,7 @@ Solved leetcode problemas
 | ------- |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shourya-srivastava/Leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -117,6 +119,7 @@ Solved leetcode problemas
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
