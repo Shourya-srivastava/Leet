@@ -10,6 +10,7 @@ Solved leetcode problemas
 | [0066-plus-one](https://github.com/Shourya-srivastava/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shourya-srivastava/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Solved leetcode problemas
 | [1929-concatenation-of-array](https://github.com/Shourya-srivastava/Leet/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shourya-srivastava/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
