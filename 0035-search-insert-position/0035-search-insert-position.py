@@ -18,4 +18,4 @@ class Solution:
             else:
                 end = mid - 1
 
-        return mid + 1 if target > nums[mid] else mid
+        return start
