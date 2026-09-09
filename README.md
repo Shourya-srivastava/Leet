@@ -11,6 +11,7 @@ Solved leetcode problemas
 | [0067-add-binary](https://github.com/Shourya-srivastava/Leet/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shourya-srivastava/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3870-count-commas-in-range](https://github.com/Shourya-srivastava/Leet/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Shourya-srivastava/Leet/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shourya-srivastava/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
