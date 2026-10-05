@@ -35,6 +35,7 @@ Solved leetcode problemas
 | [0560-subarray-sum-equals-k](https://github.com/Shourya-srivastava/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1470-shuffle-the-array](https://github.com/Shourya-srivastava/Leet/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Shourya-srivastava/Leet/tree/master/1929-concatenation-of-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shourya-srivastava/Leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shourya-srivastava/Leet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -70,6 +71,7 @@ Solved leetcode problemas
 | [0219-contains-duplicate-ii](https://github.com/Shourya-srivastava/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shourya-srivastava/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shourya-srivastava/Leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shourya-srivastava/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -86,6 +88,7 @@ Solved leetcode problemas
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shourya-srivastava/Leet/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shourya-srivastava/Leet/tree/master/0349-intersection-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shourya-srivastava/Leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shourya-srivastava/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
@@ -135,6 +138,7 @@ Solved leetcode problemas
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shourya-srivastava/Leet/tree/master/0169-majority-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shourya-srivastava/Leet/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
